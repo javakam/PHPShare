@@ -1,9 +1,9 @@
 # PHP 开发分享
-思维导图  https://www.processon.com/mindmap/61d3aeb91efad4259c4705b3
+思维导图  https://www.processon.com/view/link/61d66ca1f346fb06920bfa63
 
 博客 https://javakam.github.io/category/#PHP
 
-phpStudy  https://www.xp.cn/download.html
+phpStudy v8  https://www.xp.cn/download.html
 
 ThinkPHP6文档  https://www.kancloud.cn/manual/thinkphp6_0/1037484
 
